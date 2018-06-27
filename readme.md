@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/kaomoji](http://gitlab.com/paul-nechifor/kaomoji).
+
+Old readme:
+
 # Kaomoji
 
 ## TODO
